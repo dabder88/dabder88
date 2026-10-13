@@ -4,8 +4,6 @@
 
 I build applied software, speech AI tools, and data workflows at the intersection of product marketing, EdTech, and software engineering.
 
-Разрабатываю прикладные ИИ-инструменты и софт, решающий реальные задачи: от десктопной транскрибации речи и психологического анализа данных до инструментов маркетинговой аналитики.
-
 [Slysh!](https://slyshai.pro/) · [Sleepsy](https://sleepsy.pro) · [Data Comparator](https://data-comparator-nu.vercel.app)
 
 ---
@@ -13,31 +11,31 @@ I build applied software, speech AI tools, and data workflows at the intersectio
 ## What I am building
 
 ### 🎙️ [Slysh!](https://github.com/dabder88/slysh)
-Десктопная рабочая станция для Windows для локальной расшифровки аудио, созвонов и YouTube.
-- Распознавание речи SOTA-уровня для русского языка на базе **GigaAM v3** + мультиязычный **OpenAI Whisper**.
-- Запись встреч и интервью без ботов через системный аудиопоток Windows (WASAPI loopback).
-- Пакетное скачивание и транскрибация целых YouTube-каналов и плейлистов.
-- 100% приватность данных (офлайн-обработка на ПК) или опциональный бесплатный облачный режим.
-- Сайт: [slyshai.pro](https://slyshai.pro/)
+Private desktop speech-to-text workstation for Windows.
+- SOTA Russian speech recognition powered by **GigaAM v3** + multilingual **OpenAI Whisper**.
+- **Zero-bot meeting recorder**: silently captures Zoom/Teams/Meet audio via Windows WASAPI loopback without awkward bot accounts.
+- Batch YouTube channel & playlist transcription directly to clean Markdown / SRT.
+- 100% offline & air-gapped privacy or optional free cloud fallback.
+- Website: [slyshai.pro](https://slyshai.pro/)
 
 ### 🌙 [Sleepsy](https://sleepsy.pro)
-AI-платформа персонального анализа и толкования снов на базе 5 научных школ психологии (Юнг, Фрейд, гештальт, КПТ).
-- Персональный разбор символики с учетом жизненного контекста и эмоций вместо поверхностных сонников.
-- Построен на React 19, Supabase и Google GenAI.
+AI-powered psychological dream analysis platform.
+- Contextual dream analysis grounded in 5 schools of psychology (Jung, Freud, Gestalt, CBT) rather than superficial horoscopes.
+- Personalized symbolic breakdowns, emotional insights, and journaling.
+- Built with React 19, Supabase, and Google GenAI.
 
 ### 📊 [Data Comparator](https://data-comparator-nu.vercel.app)
-Быстрая утилита для сопоставления табличных данных, списков и баз.
-- Поиск совпадений, дубликатов, расчет пересечений и экспорт в CSV.
-- Рождена из повседневных практических задач маркетолога по чистке и сверке выгрузок.
-- Построена на Angular, RxJS и Google GenAI.
+High-speed dataset & list comparison tool.
+- Built to solve daily marketing data-cleaning challenges: deduplication, cross-list comparison, set differences, and CSV exports.
+- Built with Angular, RxJS, and Google GenAI.
 
 ---
 
 ## Background & Philosophy
 
-- **Маркетинг и опыт в EdTech**: бэкграунд работы в онлайн-школе сформировал продуктовое мышление — софт должен экономить часы рутины, легко объясняться пользователю и закрывать конкретную боль без лишней сложности.
-- **Local-First & Data Privacy**: конфиденциальные записи, интервью и заметки должны оставаться на компьютере пользователя.
-- **Utility over Hype**: фокус на надежных инструментах для ежедневной работы, а не на абстрактных AI-демо.
+- **Marketing & EdTech Roots**: My experience working in an online school shaped my product-first mindset — software must eliminate hours of routine work, have an intuitive user journey, and solve concrete problems without unnecessary friction.
+- **Local-First & Data Privacy**: Confidential recordings, interviews, and notes should belong to the user. Heavy processing should happen locally on-device whenever possible.
+- **Utility over Hype**: Focus on reliable, production-grade tools for everyday workflows, not throwaway AI demos.
 
 ---
 
@@ -62,5 +60,4 @@ AI-платформа персонального анализа и толков�
 ## Contacts
 
 - **Telegram**: [@dabder88](https://t.me/dabder88)
-- **Email**: [dabder@mail.ru](mailto:dabder@mail.ru)
-- **Флагманский проект**: [slyshai.pro](https://slyshai.pro/) · [github.com/dabder88/slysh](https://github.com/dabder88/slysh)
+- **Flagship Project**: [slyshai.pro](https://slyshai.pro/) · [github.com/dabder88/slysh](https://github.com/dabder88/slysh)
