@@ -55,5 +55,4 @@ I'm a product engineer and builder working at the intersection of applied AI, ma
 ## 📫 Contacts
 
 - **Telegram**: [@dabder88](https://t.me/dabder88)
-- **Email**: [dabder@mail.ru](mailto:dabder@mail.ru)
 - **Flagship Project**: [slyshai.pro](https://slyshai.pro/) · [github.com/dabder88/slysh](https://github.com/dabder88/slysh)
